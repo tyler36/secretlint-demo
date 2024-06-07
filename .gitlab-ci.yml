@@ -1,0 +1,9 @@
+stages:
+  - lint
+
+secretlint:
+  stage: lint
+  image: node:20
+  script:
+    - npm ci
+    - npm run lint:secrets
