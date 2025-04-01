@@ -1,5 +1,7 @@
 # SecretLint <!-- omit in toc -->
 
+[![Dependabot Updates](https://github.com/tyler36/secretlint-demo/actions/workflows/dependabot/dependabot-updates/badge.svg)](https://github.com/tyler36/secretlint-demo/actions/workflows/dependabot/dependabot-updates)
+
 ## Overview
 
 Secretlint is a linting tool to prevent committing credentials.
