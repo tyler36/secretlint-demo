@@ -3,7 +3,7 @@
     "lint:secrets": "secretlint --maskSecrets **/*"
   },
   "devDependencies": {
-    "@secretlint/secretlint-rule-preset-recommend": "^9.2.1",
-    "secretlint": "^9.2.1"
+    "@secretlint/secretlint-rule-preset-recommend": "^9.3.0",
+    "secretlint": "^9.3.0"
   }
 }
