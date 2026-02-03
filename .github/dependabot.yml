@@ -14,7 +14,7 @@ updates:
     interval: weekly
   open-pull-requests-limit: 10
   groups:
-    vitest-packages:
+    secretlint-packages:
       patterns:
         - "secretlint"
         - "@secretlint/secretlint-rule-preset-recommend"
