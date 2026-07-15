@@ -1,6 +1,6 @@
 {
   "scripts": {
-    "lint:secrets": "secretlint --maskSecrets **/*"
+    "lint:secrets": "secretlint --maskSecrets \"**/*\""
   },
   "devDependencies": {
     "@secretlint/secretlint-rule-preset-recommend": "^12.3.1",
